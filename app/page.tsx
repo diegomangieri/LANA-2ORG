@@ -53,10 +53,10 @@ export default function VIPSubscriptionPage() {
   ]
 
   const checkoutLinks = {
-    '15': 'https://seguro.lanaalvarenga.bio/checkout/v4/XDoArfxpSnJZfgjTgRvq',
-    '30': 'https://seguro.lanaalvarenga.bio/checkout/v4/XDoArfxpSnJZfgjTgRvq',
-    '90': 'https://seguro.lanaalvarenga.bio/checkout/v4/XDoArfxpSnJZfgjTgRvq',
-    '180': 'https://seguro.lanaalvarenga.bio/checkout/v4/XDoArfxpSnJZfgjTgRvq',
+    '15': 'https://www.ggcheckout.com/checkout/v4/kIFdaxpktjsRLGDUQpu0',
+    '30': 'https://www.ggcheckout.com/checkout/v4/kIFdaxpktjsRLGDUQpu0',
+    '90': 'https://www.ggcheckout.com/checkout/v4/kIFdaxpktjsRLGDUQpu0',
+    '180': 'https://www.ggcheckout.com/checkout/v4/kIFdaxpktjsRLGDUQpu0',
   }
 
   const [promoDate, setPromoDate] = useState('')
