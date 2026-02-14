@@ -101,20 +101,20 @@ export default function VIPSubscriptionPage() {
             <div className="w-32 h-32 rounded-full bg-white p-1 mx-auto mb-4 shadow-xl">
               <div className="w-full h-full rounded-full overflow-hidden bg-white/10">
                 <Image
-                  src="/images/lana-black-top.jpg"
-                  alt="Lana Alvarenga"
+                  src="/images/luna-profile.png"
+                  alt="Luna Araújo"
                   width={128}
                   height={128}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top"
                   priority
                 />
               </div>
             </div>
             <h1 className="text-2xl font-bold text-white mb-2">
-              Lana Alvarenga
+              Luna Araújo
             </h1>
             <p className="text-white/90 text-lg">
-              @lana.alvarenga
+              @itluna.araujo
             </p>
           </div>
 
@@ -154,22 +154,22 @@ export default function VIPSubscriptionPage() {
           <div className="flex items-start gap-4 mb-4">
             <div className="w-16 h-16 rounded-full bg-gradient-to-br from-[#f78f3e] to-[#f9a55c] flex-shrink-0 overflow-hidden">
               <Image
-                src="/images/lana-white-top.jpg"
-                alt="Lana Alvarenga"
+                src="/images/luna-profile.png"
+                alt="Luna Araújo"
                 width={64}
                 height={64}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-top"
                 priority
               />
             </div>
             <div className="flex-1">
               <div className="flex items-center gap-2 mb-1">
-                <h2 className="text-lg font-bold text-foreground">Lana Alvarenga</h2>
+                <h2 className="text-lg font-bold text-foreground">Luna Araújo</h2>
                 <div className="w-5 h-5 rounded-full bg-primary flex items-center justify-center">
                   <Check className="w-3 h-3 text-white" />
                 </div>
               </div>
-              <p className="text-sm text-muted-foreground mb-3">@lana.alvarenga</p>
+              <p className="text-sm text-muted-foreground mb-3">@itluna.araujo</p>
               
               <div className="flex items-center gap-4 text-sm">
                 <div className="text-center">
@@ -256,7 +256,7 @@ export default function VIPSubscriptionPage() {
               </div>
               <div className="text-right">
                 <p className="text-xs text-white/70 line-through">R$ 99,90</p>
-                <p className="text-3xl font-bold">R$ 29,90</p>
+                <p className="text-3xl font-bold">R$ 19,90</p>
               </div>
             </div>
             <Button 
